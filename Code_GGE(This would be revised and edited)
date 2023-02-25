@@ -6,7 +6,7 @@ options(max.print = 10000)
 
 ######Input data and check data######
 setwd("E:/Barley")
-barley_yield_18_20_G <- read.csv("E:/Barley/Barley_YLD1.CSV")
+barley_yield_18_20_G <- read.csv(This is the pathway of yours)
 View(barley_yield_18_20_G)
 class(barley_yield_18_20_G)
 str(barley_yield_18_20_G)
